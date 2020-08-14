@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "playstation 5",
-      "salePrice": "500.00",
+      "salePrice": 500.00,
       "image": "https://gamespot1.cbsistatic.com/uploads/original/1581/15811374/3682407-ps5.jpg",
       "description": "Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio, and an all-new generation of incredible PlayStation® games. "
     }
