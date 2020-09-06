@@ -27,15 +27,6 @@
       "image": "https://www.bell.ca/Styles/wireless/all_languages/all_regions/catalog_images/large/iPhone_11_Pro_Midnight_Green_lrg1.png",
       "description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro"
     },
-   {
-      "id": 3.0,
-      "store": "Store1",
-      "category": "Electronics",
-      "name": "IPhone 11 Pro",
-      "salePrice": 1000.00,
-      "image": "https://www.bell.ca/Styles/wireless/all_languages/all_regions/catalog_images/large/iPhone_11_Pro_Midnight_Green_lrg1.png",
-      "description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro"
-    },
     
   ],
   "profile": {
