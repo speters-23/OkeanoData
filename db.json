@@ -71,7 +71,23 @@
       "storeid": 3.0,
       "name": "Store3",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQTHX6OGdiOMJyG3CpLRwLaOHt2bJlPx9gzg&usqp=CAU"
+    },
+    {
+      "storeid": 4.0,
+      "name": "Store4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGvbeqRjRUl5J2wlJj44hK7vnyb3aAJmp9Jw&usqp=CAU"
+    },
+    {
+      "storeid": 5.0,
+      "name": "Store5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1BU7aTwcn6GMci6boge2ebO_vbheZamYmzA&usqp=CAU"
+    },
+    {
+      "storeid": 6.0,
+      "name": "Store6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYH0cfObqQ8MHE9edy5iFRdKdjUPUgR5gP-w&usqp=CAU"
     }
+    
    ],
   "profile": {
     "name": "typicode"
