@@ -60,32 +60,38 @@
     {
       "storeid": 1.0,
       "name": "Store1",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL3EOxrmkS69yHgIEQD3foM1DIC4KM4SF94A&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL3EOxrmkS69yHgIEQD3foM1DIC4KM4SF94A&usqp=CAU",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     },
     {
       "storeid": 2.0,
       "name": "Store2",
-      "image": "https://f4.bcbits.com/img/0011815634_10.jpg"
+      "image": "https://f4.bcbits.com/img/0011815634_10.jpg",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     },
     {
       "storeid": 3.0,
       "name": "Store3",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQTHX6OGdiOMJyG3CpLRwLaOHt2bJlPx9gzg&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQTHX6OGdiOMJyG3CpLRwLaOHt2bJlPx9gzg&usqp=CAU",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     },
     {
       "storeid": 4.0,
       "name": "Store4",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGvbeqRjRUl5J2wlJj44hK7vnyb3aAJmp9Jw&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGvbeqRjRUl5J2wlJj44hK7vnyb3aAJmp9Jw&usqp=CAU",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     },
     {
       "storeid": 5.0,
       "name": "Store5",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1BU7aTwcn6GMci6boge2ebO_vbheZamYmzA&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1BU7aTwcn6GMci6boge2ebO_vbheZamYmzA&usqp=CAU",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     },
     {
       "storeid": 6.0,
       "name": "Store6",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYH0cfObqQ8MHE9edy5iFRdKdjUPUgR5gP-w&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYH0cfObqQ8MHE9edy5iFRdKdjUPUgR5gP-w&usqp=CAU",
+      "location": "1421 Harmony Rd N, Oshawa, ON L1K 0Z6"
     }
     
    ],
