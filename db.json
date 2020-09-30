@@ -95,6 +95,63 @@
     }
     
    ],
+  
+  "categories": [
+    {
+      "categoryid1": 1.0,
+      "category": "Baby",
+    },
+    
+    {
+      "categoryid2": 2.0,
+      "category": "Beauty",
+    },
+    
+    {
+      "categoryid3": 3.0,
+      "category": "Books",
+    },
+    
+    {
+      "categoryid4": 4.0,
+      "category": "Clothing & Accesories",
+    },
+    
+    {
+      "categoryid5": 5.0,
+      "category": "Electronics",
+    },
+    
+    {
+      "categoryid6": 6.0,
+      "category": "Luggage & Bags",
+    },
+    
+    {
+      "categoryid7": 7.0,
+      "category": "Sports & Outdoors",
+    },
+    
+    {
+      "categoryid8": 8.0,
+      "category": "Tools & Home Improvement",
+    },
+        {
+      "categoryid9": 9.0,
+      "category": "Toys & Games",
+    },
+    
+    {
+      "categoryid10": 10.0,
+      "category": "Video Games",
+    },
+    
+    {
+      "categoryid11": 11.0,
+      "category": "Watches",
+    },
+       ],
+   
   "profile": {
     "name": "typicode"
   }
